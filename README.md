@@ -6,7 +6,8 @@
 **Creation Date:** 10/05/2021
 
 
-**Time:** 15:07:53
+**Time:** 15:10:50
 
 
 **Number of lines in guessinggame.sh:**
+26

@@ -8,7 +8,7 @@ README.md: guessinggame.sh
 	echo "\n**Creation Date:** `date '+%m/%d/%Y'`\n" >> README.md
 	echo "\n**Time:** `date '+%H:%M:%S'`\n" >> README.md
 	echo "\n**Number of lines in guessinggame.sh:**" >> README.md
-	cat guessinggame.sh | ec -l >> README.md
+	cat guessinggame.sh | wc -l >> README.md
 
 clean:
 	rm README.md
